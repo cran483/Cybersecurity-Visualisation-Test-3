@@ -1,0 +1,53 @@
+id,Address,medical_device_flag,risk,vulnerability,xpos,ypos,
+Withings BPM Connect,10.0.0.1,1,2,3,40,60
+Withings Thermometer,10.0.0.2,1,1,1,55,60
+Lookee Ring Pro Sleep Monitor,10.0.0.7,1,1,4,70,60
+Qardio Base 2,10.0.0.8,1,1,1,40,80
+UASure II Meter,10.0.0.6,2,1,3,55,80,
+Fall Detector,10.0.0.5,1,3,1,70,80
+Sense-U Baby Monitor 1,10.0.0.15,1,3,3,100,60
+Spirometer,10.0.0.14,1,3,1,115,60
+Wellue EKG,10.0.0.4,1,4,2,130,60
+iHealth Smart Wireless Gluco-Monitoring System,10.0.0.9,1,4,4,55,80
+Wellue Visual Oxy Wrist Pulse Oximeter,10.0.0.12,1,3,1,40,210
+Infusion Pump,10.0.0.13,1,4,2,55,210
+NasalMouth Air Flow Sensor,10.0.0.3,1,2,1,70,210
+Electro-myography Sensor,10.0.0.10,3,1,2,40,230
+Galvanic Skin Response Sensor,10.0.0.11,1,2,1,55,230
+iPad,E6:AA:E4:09:FC:8A,0,1,4,240,160
+Access Point 1,,0,1,4,220,160
+Raspberry Pi (1),192.168.137.48,0,1,2,160,60
+Raspberry Pi (4),192.168.137.1,0,1,2,160,80
+Raspberry Pi (9),RaspberryPiT_dc:27:d5,0,1,2,175,60
+Raspberry Pi (7),DC:A6:32:C9:E4:AB,0,1,2,175,80
+Netgear Switch,,0,1,3,220,60
+Internet Provider,,0,2,1,235,60
+Asus Router,,0,1,2,235,80
+Internet,,0,1,4,255,60
+Gigamon Network Tap G-TAP A-Tx,,0,1,1,220,80
+Access Point 2,,0,1,1,195,80
+MQTT Broker,192.168.137.216,0,1,4,75,175 
+MQTT Switch,192.168.137.250,0,1,3,60,175
+IoTFlock Simulation,10.0.0.254,0,1,3,40,175
+Sense-U Baby Monitor 2,34:94:54:F0:DB:F0,1,3,3,100,80
+SOS Multifunctional Paper,FC:67:1F:E1:9E:58,1,1,1,115,80
+SINGCALL SOS Button,1C:90:FF:E6:E2:4B,1,3,2,130,80
+M1T Laxihub,F4:B1:9C:C9:79:FF,1,2,2,40,310
+Owltron,FC:67:1F:F7:CB:07,1,3,2,100,310
+Blink Mini,90:11:95:16:40:3B,1,1,1,115,310
+Ecobee Camera,192.168.137.174,1,3,3,130,310
+Lookee Sleep Ring,c2:52:be:33:2f:20,1,2,2,220,310
+Kinsa QuickCare Thermometer,c6:c6:df:f6:4d:19,1,1,1,235,210
+Checkme O2 Smart Wrist Pulse Oximeter 1,e3:4e:ec:2f:9e:42,1,3,1,250,210
+Checkme O2 Smart Wrist Pulse Oximeter 2,f2:4e:56:88:a4:4b,1,3,1,220,310
+CheckMe Blood Pressure Monitor,d0:7f:54:a5:f2:51,1,3,2,235,310
+Lookee Wearable Oxygen Monitor,c8:1a:2a:27:ea:01,1,4,2,310,340
+Rhythm-2.0 Waterproof Armband Heart Rate Monitor,f2:8d:2e:ec:c5:56,1,3,1,385,340
+COOSPO Heart Rate Monitor,dd:77:40:54:1f:98,1,3,2,460,340
+PulseBit EX Personal EKG Tracker,55:55:0a:05:a7:2e,1,3,2,545,340
+LIVLOV Heart Rate Sensor,e7:ae:80:89:a8:b2,1,3,2,310,300
+COOSPO Armband Heart Rate Monitor,ce:3e:10:2c:68:8a,1,3,1,460,320
+SleepU Sleep Oxygen Monitor,c2:20:57:14:11:78,1,3,2,385,320,
+Powrlabs Chest Strap Heart Rate Monitor,D3:36:04:BD:77:36,1,3,1,310,320
+Smartphone,192.168.137.210,0,1,4,130,135
+WiFi,,,,,100,175

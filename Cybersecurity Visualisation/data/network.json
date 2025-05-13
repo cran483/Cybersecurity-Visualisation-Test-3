@@ -1,0 +1,740 @@
+{
+"nodes": [
+  {
+    "id": "Withings BPM Connect",
+    "Address": "10.0.0.1",
+    "medical_device_flag": 1,
+    "risk": 2,
+    "vulnerability": 3,
+    "xpos": 40,
+    "ypos": 60,
+    "": ""
+  },
+  {
+    "id": "Withings Thermometer",
+    "Address": "10.0.0.2",
+    "medical_device_flag": 1,
+    "risk": 1,
+    "vulnerability": 1,
+    "xpos": 55,
+    "ypos": 60,
+    "": ""
+  },
+  {
+    "id": "Lookee Ring Pro Sleep Monitor",
+    "Address": "10.0.0.7",
+    "medical_device_flag": 1,
+    "risk": 1,
+    "vulnerability": 4,
+    "xpos": 70,
+    "ypos": 60,
+    "": ""
+  },
+  {
+    "id": "Qardio Base 2",
+    "Address": "10.0.0.8",
+    "medical_device_flag": 1,
+    "risk": 1,
+    "vulnerability": 1,
+    "xpos": 40,
+    "ypos": 80,
+    "": ""
+  },
+  {
+    "id": "UASure II Meter",
+    "Address": "10.0.0.6",
+    "medical_device_flag": 2,
+    "risk": 1,
+    "vulnerability": 100,
+    "xpos": 55,
+    "ypos": 80,
+    "": ""
+  },
+  {
+    "id": "Fall Detector",
+    "Address": "10.0.0.5",
+    "medical_device_flag": 1,
+    "risk": 3,
+    "vulnerability": 1,
+    "xpos": 70,
+    "ypos": 80,
+    "": ""
+  },
+  {
+    "id": "Sense-U Baby Monitor 1",
+    "Address": "10.0.0.15",
+    "medical_device_flag": 1,
+    "risk": 3,
+    "vulnerability": 3,
+    "xpos": 100,
+    "ypos": 60,
+    "": ""
+  },
+  {
+    "id": "Spirometer",
+    "Address": "10.0.0.14",
+    "medical_device_flag": 1,
+    "risk": 3,
+    "vulnerability": 1,
+    "xpos": 115,
+    "ypos": 60,
+    "": ""
+  },
+  {
+    "id": "Wellue EKG",
+    "Address": "10.0.0.4",
+    "medical_device_flag": 1,
+    "risk": 4,
+    "vulnerability": 2,
+    "xpos": 130,
+    "ypos": 60,
+    "": ""
+  },
+  {
+    "id": "iHealth Smart Wireless Gluco-Monitoring System",
+    "Address": "10.0.0.9",
+    "medical_device_flag": 1,
+    "risk": 4,
+    "vulnerability": 4,
+    "xpos": 55,
+    "ypos": 80,
+    "": ""
+  },
+  {
+    "id": "Wellue Visual Oxy Wrist Pulse Oximeter",
+    "Address": "10.0.0.12",
+    "medical_device_flag": 1,
+    "risk": 3,
+    "vulnerability": 1,
+    "xpos": 40,
+    "ypos": 210,
+    "": ""
+  },
+  {
+    "id": "Infusion Pump",
+    "Address": "10.0.0.13",
+    "medical_device_flag": 1,
+    "risk": 4,
+    "vulnerability": 2,
+    "xpos": 55,
+    "ypos": 210,
+    "": ""
+  },
+  {
+    "id": "NasalMouth Air Flow Sensor",
+    "Address": "10.0.0.3",
+    "medical_device_flag": 1,
+    "risk": 2,
+    "vulnerability": 1,
+    "xpos": 70,
+    "ypos": 210,
+    "": ""
+  },
+  {
+    "id": "Electro-myography Sensor",
+    "Address": "10.0.0.10",
+    "medical_device_flag": 3,
+    "risk": 1,
+    "vulnerability": 2,
+    "xpos": 40,
+    "ypos": 230,
+    "": ""
+  },
+  {
+    "id": "Galvanic Skin Response Sensor",
+    "Address": "10.0.0.11",
+    "medical_device_flag": 1,
+    "risk": 2,
+    "vulnerability": 1,
+    "xpos": 55,
+    "ypos": 230,
+    "": ""
+  },
+  {
+    "id": "iPad",
+    "Address": "E6:AA:E4:09:FC:8A",
+    "medical_device_flag": 0,
+    "risk": 1,
+    "vulnerability": 4,
+    "xpos": 240,
+    "ypos": 160,
+    "": ""
+  },
+  {
+    "id": "Access Point 1",
+    "Address": "",
+    "medical_device_flag": 0,
+    "risk": 1,
+    "vulnerability": 4,
+    "xpos": 220,
+    "ypos": 160,
+    "": ""
+  },
+  {
+    "id": "Raspberry Pi (1)",
+    "Address": "192.168.137.48",
+    "medical_device_flag": 0,
+    "risk": 1,
+    "vulnerability": 2,
+    "xpos": 160,
+    "ypos": 60,
+    "": ""
+  },
+  {
+    "id": "Raspberry Pi (4)",
+    "Address": "192.168.137.1",
+    "medical_device_flag": 0,
+    "risk": 1,
+    "vulnerability": 2,
+    "xpos": 160,
+    "ypos": 80,
+    "": ""
+  },
+  {
+    "id": "Raspberry Pi (9)",
+    "Address": "RaspberryPiT_dc:27:d5",
+    "medical_device_flag": 0,
+    "risk": 1,
+    "vulnerability": 2,
+    "xpos": 175,
+    "ypos": 60,
+    "": ""
+  },
+  {
+    "id": "Raspberry Pi (7)",
+    "Address": "DC:A6:32:C9:E4:AB",
+    "medical_device_flag": 0,
+    "risk": 1,
+    "vulnerability": 2,
+    "xpos": 175,
+    "ypos": 80,
+    "": ""
+  },
+  {
+    "id": "Netgear Switch",
+    "Address": "",
+    "medical_device_flag": 0,
+    "risk": 1,
+    "vulnerability": 3,
+    "xpos": 220,
+    "ypos": 60,
+    "": ""
+  },
+  {
+    "id": "Internet Provider",
+    "Address": "",
+    "medical_device_flag": 0,
+    "risk": 2,
+    "vulnerability": 1,
+    "xpos": 235,
+    "ypos": 60,
+    "": ""
+  },
+  {
+    "id": "Asus Router",
+    "Address": "",
+    "medical_device_flag": 0,
+    "risk": 1,
+    "vulnerability": 2,
+    "xpos": 235,
+    "ypos": 80,
+    "": ""
+  },
+  {
+    "id": "Internet",
+    "Address": "",
+    "medical_device_flag": 0,
+    "risk": 1,
+    "vulnerability": 4,
+    "xpos": 255,
+    "ypos": 60,
+    "": ""
+  },
+  {
+    "id": "Gigamon Network Tap G-TAP A-Tx",
+    "Address": "",
+    "medical_device_flag": 0,
+    "risk": 1,
+    "vulnerability": 1,
+    "xpos": 220,
+    "ypos": 80,
+    "": ""
+  },
+  {
+    "id": "Access Point 2",
+    "Address": "",
+    "medical_device_flag": 0,
+    "risk": 1,
+    "vulnerability": 1,
+    "xpos": 195,
+    "ypos": 80,
+    "": ""
+  },
+  {
+    "id": "MQTT Broker",
+    "Address": "192.168.137.216",
+    "medical_device_flag": 0,
+    "risk": 1,
+    "vulnerability": 4,
+    "xpos": 75,
+    "ypos": 175,
+    "": ""
+  },
+  {
+    "id": "MQTT Switch",
+    "Address": "192.168.137.250",
+    "medical_device_flag": 0,
+    "risk": 1,
+    "vulnerability": 3,
+    "xpos": 60,
+    "ypos": 175,
+    "": ""
+  },
+  {
+    "id": "IoTFlock Simulation",
+    "Address": "10.0.0.254",
+    "medical_device_flag": 0,
+    "risk": 1,
+    "vulnerability": 3,
+    "xpos": 40,
+    "ypos": 175,
+    "": ""
+  },
+  {
+    "id": "Sense-U Baby Monitor 2",
+    "Address": "34:94:54:F0:DB:F0",
+    "medical_device_flag": 1,
+    "risk": 3,
+    "vulnerability": 3,
+    "xpos": 100,
+    "ypos": 80,
+    "": ""
+  },
+  {
+    "id": "SOS Multifunctional Paper",
+    "Address": "FC:67:1F:E1:9E:58",
+    "medical_device_flag": 1,
+    "risk": 1,
+    "vulnerability": 1,
+    "xpos": 115,
+    "ypos": 80,
+    "": ""
+  },
+  {
+    "id": "SINGCALL SOS Button",
+    "Address": "1C:90:FF:E6:E2:4B",
+    "medical_device_flag": 1,
+    "risk": 3,
+    "vulnerability": 2,
+    "xpos": 130,
+    "ypos": 80,
+    "": ""
+  },
+  {
+    "id": "M1T Laxihub",
+    "Address": "F4:B1:9C:C9:79:FF",
+    "medical_device_flag": 1,
+    "risk": 2,
+    "vulnerability": 2,
+    "xpos": 40,
+    "ypos": 310,
+    "": ""
+  },
+  {
+    "id": "Owltron",
+    "Address": "FC:67:1F:F7:CB:07",
+    "medical_device_flag": 1,
+    "risk": 3,
+    "vulnerability": 2,
+    "xpos": 100,
+    "ypos": 310,
+    "": ""
+  },
+  {
+    "id": "Blink Mini",
+    "Address": "90:11:95:16:40:3B",
+    "medical_device_flag": 1,
+    "risk": 1,
+    "vulnerability": 1,
+    "xpos": 115,
+    "ypos": 310,
+    "": ""
+  },
+  {
+    "id": "Ecobee Camera",
+    "Address": "192.168.137.174",
+    "medical_device_flag": 1,
+    "risk": 3,
+    "vulnerability": 260,
+    "xpos": 130,
+    "ypos": 310,
+    "": ""
+  },
+  {
+    "id": "Lookee Sleep Ring",
+    "Address": "c2:52:be:33:2f:20",
+    "medical_device_flag": 1,
+    "risk": 2,
+    "vulnerability": 2,
+    "xpos": 220,
+    "ypos": 310,
+    "": ""
+  },
+  {
+    "id": "Kinsa QuickCare Thermometer",
+    "Address": "c6:c6:df:f6:4d:19",
+    "medical_device_flag": 1,
+    "risk": 1,
+    "vulnerability": 1,
+    "xpos": 235,
+    "ypos": 210,
+    "": ""
+  },
+  {
+    "id": "Checkme O2 Smart Wrist Pulse Oximeter 1",
+    "Address": "e3:4e:ec:2f:9e:42",
+    "medical_device_flag": 1,
+    "risk": 3,
+    "vulnerability": 1,
+    "xpos": 250,
+    "ypos": 210,
+    "": ""
+  },
+  {
+    "id": "Checkme O2 Smart Wrist Pulse Oximeter 2",
+    "Address": "f2:4e:56:88:a4:4b",
+    "medical_device_flag": 1,
+    "risk": 3,
+    "vulnerability": 1,
+    "xpos": 220,
+    "ypos": 310,
+    "": ""
+  },
+  {
+    "id": "CheckMe Blood Pressure Monitor",
+    "Address": "d0:7f:54:a5:f2:51",
+    "medical_device_flag": 1,
+    "risk": 3,
+    "vulnerability": 2,
+    "xpos": 235,
+    "ypos": 310,
+    "": ""
+  },
+  {
+    "id": "Lookee Wearable Oxygen Monitor",
+    "Address": "c8:1a:2a:27:ea:01",
+    "medical_device_flag": 1,
+    "risk": 4,
+    "vulnerability": 2,
+    "xpos": 310,
+    "ypos": 340,
+    "": ""
+  },
+  {
+    "id": "Rhythm-2.0 Waterproof Armband Heart Rate Monitor",
+    "Address": "f2:8d:2e:ec:c5:56",
+    "medical_device_flag": 1,
+    "risk": 3,
+    "vulnerability": 1,
+    "xpos": 385,
+    "ypos": 340,
+    "": ""
+  },
+  {
+    "id": "COOSPO Heart Rate Monitor",
+    "Address": "dd:77:40:54:1f:98",
+    "medical_device_flag": 1,
+    "risk": 3,
+    "vulnerability": 2,
+    "xpos": 460,
+    "ypos": 340,
+    "": ""
+  },
+  {
+    "id": "PulseBit EX Personal EKG Tracker",
+    "Address": "55:55:0a:05:a7:2e",
+    "medical_device_flag": 1,
+    "risk": 3,
+    "vulnerability": 2,
+    "xpos": 545,
+    "ypos": 340,
+    "": ""
+  },
+  {
+    "id": "LIVLOV Heart Rate Sensor",
+    "Address": "e7:ae:80:89:a8:b2",
+    "medical_device_flag": 1,
+    "risk": 3,
+    "vulnerability": 2,
+    "xpos": 310,
+    "ypos": 300,
+    "": ""
+  },
+  {
+    "id": "COOSPO Armband Heart Rate Monitor",
+    "Address": "ce:3e:10:2c:68:8a",
+    "medical_device_flag": 1,
+    "risk": 3,
+    "vulnerability": 1,
+    "xpos": 460,
+    "ypos": 320,
+    "": ""
+  },
+  {
+    "id": "SleepU Sleep Oxygen Monitor",
+    "Address": "c2:20:57:14:11:78",
+    "medical_device_flag": 1,
+    "risk": 3,
+    "vulnerability": 2,
+    "xpos": 385,
+    "ypos": 320,
+    "": ""
+  },
+  {
+    "id": "Powrlabs Chest Strap Heart Rate Monitor",
+    "Address": "D3:36:04:BD:77:36",
+    "medical_device_flag": 1,
+    "risk": 3,
+    "vulnerability": 1,
+    "xpos": 310,
+    "ypos": 320,
+    "": ""
+  },
+  {
+    "id": "Smartphone",
+    "Address": "192.168.137.210",
+    "medical_device_flag": 0,
+    "risk": 1,
+    "vulnerability": 4,
+    "xpos": 130,
+    "ypos": 135,
+    "": ""
+  },
+  {
+    "id": "WiFi",
+    "Address": "",
+    "medical_device_flag": "",
+    "risk": "",
+    "vulnerability": "",
+    "xpos": 100,
+    "ypos": 175,
+    "": ""
+  },
+  {
+    "id": "Bluetooth",
+    "Address": "",
+    "medical_device_flag": "",
+    "risk": "",
+    "vulnerability": "",
+    "xpos": 220,
+    "ypos": 175,
+    "": ""
+  }
+],
+  "links": [
+    {
+      "source": "IoTFlock Simulation",
+      "target": "Withings BPM Connect"
+    },
+    {
+      "source": "IoTFlock Simulation",
+      "target": "Withings Thermometer"
+    },
+    {
+      "source": "IoTFlock Simulation",
+      "target": "Lookee Ring Pro Sleep Monitor"
+    },
+    {
+      "source": "IoTFlock Simulation",
+      "target": "Qardio Base 2"
+    },
+    {
+      "source": "IoTFlock Simulation",
+      "target": "UASure II Meter"
+    },
+    {
+      "source": "IoTFlock Simulation",
+      "target": "Fall Detector"
+    },
+    {
+      "source": "IoTFlock Simulation",
+      "target": "Sense-U Baby Monitor 1"
+    },
+    {
+      "source": "IoTFlock Simulation",
+      "target": "Spirometer"
+    },
+    {
+      "source": "IoTFlock Simulation",
+      "target": "Wellue EKG"
+    },
+    {
+      "source": "IoTFlock Simulation",
+      "target": "iHealth Smart Wireless Gluco-Monitoring System"
+    },
+    {
+      "source": "IoTFlock Simulation",
+      "target": "Wellue Visual Oxy Wrist Pulse Oximeter"
+    },
+    {
+      "source": "IoTFlock Simulation",
+      "target": "Infusion Pump"
+    },
+    {
+      "source": "IoTFlock Simulation",
+      "target": "NasalMouth Air Flow Sensor"
+    },
+    {
+      "source": "IoTFlock Simulation",
+      "target": "Electro-myography Sensor"
+    },
+    {
+      "source": "IoTFlock Simulation",
+      "target": "Galvanic Skin Response Sensor"
+    },
+    {
+      "source": "iPad",
+      "target": "Access Point 1"
+    },
+    {
+      "source": "Access Point 2",
+      "target": "Gigamon Network Tap G-TAP A-Tx"
+    },
+    {
+      "source": "Gigamon Network Tap G-TAP A-Tx",
+      "target": "Netgear Switch"
+    },
+    {
+      "source": "Netgear Switch",
+      "target": "Access Point 1"
+    },
+    {
+      "source": "Netgear Switch",
+      "target": "Internet Provider"
+    },
+    {
+      "source": "Asus Router",
+      "target": "Internet Provider"
+    },
+    {
+      "source": "Internet",
+      "target": "Asus Router"
+    },
+    {
+      "source": "MQTT Broker",
+      "target": "MQTT Switch"
+    },
+    {
+      "source": "MQTT Switch",
+      "target": "IoTFlock Simulation"
+    },
+    {
+      "source": "WiFi",
+      "target": "MQTT Switch"
+    },
+    {
+      "source": "WiFi",
+      "target": "Sense-U Baby Monitor 2"
+    },
+    {
+      "source": "WiFi",
+      "target": "SOS Multifunctional Paper"
+    },
+    {
+      "source": "WiFi",
+      "target": "SINGCALL SOS Button"
+    },
+    {
+      "source": "WiFi",
+      "target": "M1T Laxihub"
+    },
+    {
+      "source": "WiFi",
+      "target": "Owltron"
+    },
+    {
+      "source": "WiFi",
+      "target": "Blink Mini"
+    },
+    {
+      "source": "WiFi",
+      "target": "Ecobee Camera"
+    },
+    {
+      "source": "Netgear Switch",
+      "target": "Gigamon Network Tap G-TAP A-Tx"
+    },
+    {
+      "source": "Raspberry Pi (1)",
+      "target": "Access Point 1"
+    },
+    {
+      "source": "Raspberry Pi (4)",
+      "target": "Access Point 1"
+    },
+    {
+      "source": "Raspberry Pi (9)",
+      "target": "Access Point 1"
+    },
+    {
+      "source": "Raspberry Pi (7)",
+      "target": "Access Point 1"
+    },
+    {
+      "source": "Bluetooth",
+      "target": "Lookee Sleep Ring"
+    },
+    {
+      "source": "Bluetooth",
+      "target": "Kinsa QuickCare Thermometer"
+    },
+    {
+      "source": "Bluetooth",
+      "target": "Checkme O2 Smart Wrist Pulse Oximeter 1"
+    },
+    {
+      "source": "Bluetooth",
+      "target": "Checkme O2 Smart Wrist Pulse Oximeter 2"
+    },
+    {
+      "source": "Bluetooth",
+      "target": "CheckMe Blood Pressure Monitor"
+    },
+    {
+      "source": "Bluetooth",
+      "target": "Lookee Wearable Oxygen Monitor"
+    },
+    {
+      "source": "Bluetooth",
+      "target": "Rhythm-2.0 Waterproof Armband Heart Rate Monitor"
+    },
+    {
+      "source": "Bluetooth",
+      "target": "COOSPO Heart Rate Monitor"
+    },
+    {
+      "source": "Bluetooth",
+      "target": "PulseBit EX Personal EKG Tracker"
+    },
+    {
+      "source": "Bluetooth",
+      "target": "LIVLOV Heart Rate Sensor"
+    },
+    {
+      "source": "Bluetooth",
+      "target": "COOSPO Armband Heart Rate Monitor"
+    },
+    {
+      "source": "Bluetooth",
+      "target": "SleepU Sleep Oxygen Monitor"
+    },
+    {
+      "source": "Bluetooth",
+      "target": "Powrlabs Chest Strap Heart Rate Monitor"
+    },
+    {
+      "source": "Smartphone",
+      "target": "WiFi"
+    }
+  ]
+}

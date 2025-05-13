@@ -1,0 +1,52 @@
+source,target
+IoTFlock Simulation,Withings BPM Connect
+IoTFlock Simulation,Withings Thermometer
+IoTFlock Simulation,Lookee Ring Pro Sleep Monitor
+IoTFlock Simulation,Qardio Base 2
+IoTFlock Simulation,UASure II Meter
+IoTFlock Simulation,Fall Detector
+IoTFlock Simulation,Sense-U Baby Monitor 1
+IoTFlock Simulation,Spirometer
+IoTFlock Simulation,Wellue EKG
+IoTFlock Simulation,iHealth Smart Wireless Gluco-Monitoring System
+IoTFlock Simulation,Wellue Visual Oxy Wrist Pulse Oximeter
+IoTFlock Simulation,Infusion Pump
+IoTFlock Simulation,NasalMouth Air Flow Sensor
+IoTFlock Simulation,Electro-myography Sensor
+IoTFlock Simulation,Galvanic Skin Response Sensor
+iPad,Access Point 1
+Access Point 2,Gigamon Network Tap G-TAP A-Tx
+Gigamon Network Tap G-TAP A-Tx,Netgear Switch
+Netgear Switch,Access Point 1
+Netgear Switch,Internet Provider
+Asus Router,Internet Provider
+Internet,Asus Router
+MQTT Broker,MQTT Switch
+MQTT Switch,IoTFlock Simulation
+WiFi,MQTT Switch
+WiFi,Sense-U Baby Monitor 2,
+WiFi,SOS Multifunctional Paper,
+WiFi,SINGCALL SOS Button,
+WiFi,M1T Laxihub,
+WiFi,Owltron,
+WiFi,Blink Mini,
+WiFi,Ecobee Camera,
+Netgear Switch,Gigamon Network Tap G-TAP A-Tx
+Raspberry Pi (1),Access Point 1
+Raspberry Pi (4),Access Point 1
+Raspberry Pi (9),Access Point 1
+Raspberry Pi (7),Access Point 1
+Bluetooth,Lookee Sleep Ring,
+Bluetooth,Kinsa QuickCare Thermometer,
+Bluetooth,Checkme O2 Smart Wrist Pulse Oximeter 1,
+Bluetooth,Checkme O2 Smart Wrist Pulse Oximeter 2,
+Bluetooth,CheckMe Blood Pressure Monitor,
+Bluetooth,Lookee Wearable Oxygen Monitor,
+Bluetooth,Rhythm-2.0 Waterproof Armband Heart Rate Monitor,
+Bluetooth,COOSPO Heart Rate Monitor,
+Bluetooth,PulseBit EX Personal EKG Tracker,
+Bluetooth,LIVLOV Heart Rate Sensor,
+Bluetooth,COOSPO Armband Heart Rate Monitor,
+Bluetooth,SleepU Sleep Oxygen Monitor,
+Bluetooth,Powrlabs Chest Strap Heart Rate Monitor,
+Smartphone,WiFi

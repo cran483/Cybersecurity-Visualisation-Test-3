@@ -1,0 +1,50 @@
+.chart-subtitle {
+    font-size: 9;
+}
+
+.matrixRect:hover {
+    stroke: black;
+    stroke-width: 2;
+}
+
+.matrixRect:click {
+    stroke: black;
+    stroke-width: 2;
+}
+
+.node:hover {
+    stroke: black;
+    stroke-width: 2;
+}
+
+circle:hover {
+    stroke: black;
+    stroke-width: 3;
+}
+
+bar:hover {
+    stroke: red;
+    stroke-width: 3;
+}
+
+#tooltip {
+    position: absolute;
+    display: none;
+    background: #fff;
+}
+
+.button:hover {
+    stroke: black;
+    stroke-width: 3;
+}
+
+.reset:hover {
+    fill: rgb(144, 144, 144)
+}
+
+.SourceRect:hover{
+    fill: rgb(144, 144, 144)
+}
+.DestinationRect:hover {
+    fill: rgb(144, 144, 144)
+}
